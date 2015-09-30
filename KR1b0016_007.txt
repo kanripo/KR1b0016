@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 絜齋家塾書鈔
-#+DATE: 2015-09-23 09:35:58
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:02:04.131291
+#+PROPERTY: ID KR1b0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1b0016_WYG_007-1a>¶
 欽定四庫全書¶
 　絜齋家塾書鈔卷七　　　　宋　袁燮　撰¶
@@ -743,4 +745,3 @@
 <pb:KR1b0016_WYG_007-42a>¶
 子王子弗出我乃顚隮自靖人自獻于先王我不顧行¶
 遯(案以上袁氏解/永樂大典原闕)¶
-

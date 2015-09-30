@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 絜齋家塾書鈔
-#+DATE: 2015-09-23 09:35:57
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:02:03.986146
+#+PROPERTY: ID KR1b0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1b0016_WYG_001-1a>¶
 欽定四庫全書¶
 　絜齋家塾書鈔卷一　　　　　宋　袁燮　撰¶
@@ -1023,4 +1025,3 @@
 　與不整齊處要不能無舜一旦出而與之經理焉方¶
 　設居方如建諸侯之類也别生分類别其所生分其¶
 　族類所謂天子建徳因生以賜姓是也¶
-

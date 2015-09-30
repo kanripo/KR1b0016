@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 絜齋家塾書鈔
-#+DATE: 2015-09-23 09:35:58
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:02:04.243637
+#+PROPERTY: ID KR1b0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1b0016_WYG_012-1a>¶
 欽定四庫全書¶
 　絜齋家塾書鈔卷十二　　　宋　袁燮　撰¶
@@ -694,4 +696,3 @@
 　自此以往其敬用治周公告召公反覆乎敬之一辭¶
 　蓋纔見功之已成便非所謂敬也讀君奭一篇可以¶
 　見三代王佐之心可以見三代王佐之事業¶
-

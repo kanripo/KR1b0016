@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 絜齋家塾書鈔
-#+DATE: 2015-09-23 09:35:58
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:02:04.196075
+#+PROPERTY: ID KR1b0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1b0016_WYG_010-1a>¶
 欽定四庫全書¶
 　絜齋家塾書鈔卷十　　　　宋　袁燮　撰¶
@@ -1008,4 +1010,3 @@
 　享之一字富貴亦在其中然不特富貴雖處貧賤亦¶
 　有可享者顔子簞瓢陋卷不改其樂享孰大焉此天¶
 　爵良貴富貴特外物爾¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 絜齋家塾書鈔
-#+DATE: 2015-09-23 09:35:58
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:02:04.222784
+#+PROPERTY: ID KR1b0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1b0016_WYG_011-1a>¶
 欽定四庫全書¶
 　絜齋家塾書鈔卷十一　　　宋　袁燮　撰¶
@@ -809,4 +811,3 @@
 　前日兹予其明農之言不同矣是周公復留以輔成¶
 　王也誕保文武受命惟七年自此以上皆攝政七年¶
 　間之事也¶
-
